@@ -1,5 +1,6 @@
 # Images
 Scale and convert images using PIL
+
 Open an image
 
 Rotate an image
